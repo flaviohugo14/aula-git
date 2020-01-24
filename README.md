@@ -17,7 +17,7 @@ https://git-scm.com/downloads
 
 - [] Você quer colocar seu projeto na nuvem.
 
-### Comandos:
+### Comandos Git:
 
 - `git init` // Inicia a linha do tempo.
 - `git add <arquivo/pasta>` // Adiciona ou atauliza mudanças para irem para a linha do tempo.
@@ -28,3 +28,8 @@ https://git-scm.com/downloads
 - `git branch <branch name>` Cria outra linha do tempo.
 - `git checkout <branch name>` Alterna entre branchs
 - `git merge <branch name>` Une branchs.
+---
+### Comandos Git Remote:
+
+- `git remote add origin https://github.com/{username}/{repo}`
+- `git push -u origin master`: Para a primeira vez.
